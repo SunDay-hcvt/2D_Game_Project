@@ -415,6 +415,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2697,7 +2736,110 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!Demon Door_0': -7342041184709251701
+      '!Demon Door_1': -5610388715750994058
+      '!Demon Door_10': -1306426859240586634
+      '!Demon Door_100': 2297343819174294571
+      '!Demon Door_101': -3085064554409982641
+      '!Demon Door_102': -258758777556419682
+      '!Demon Door_11': -1241971036564382873
+      '!Demon Door_12': 2289276670447815504
+      '!Demon Door_13': -6069472128546960208
+      '!Demon Door_14': -6141430246812526321
+      '!Demon Door_15': 3557339148398261486
+      '!Demon Door_16': 89045890232157294
+      '!Demon Door_17': 669081760157529940
+      '!Demon Door_18': -4067427810241413029
+      '!Demon Door_19': -6289233632079083223
+      '!Demon Door_2': 9144418524347618222
+      '!Demon Door_20': 3748997344300848799
+      '!Demon Door_21': -8683452022087806870
+      '!Demon Door_22': -6804559897237789172
+      '!Demon Door_23': -8503365393684835220
+      '!Demon Door_24': -207908083694967232
+      '!Demon Door_25': -1792632850428840731
+      '!Demon Door_26': -6503191712392235991
+      '!Demon Door_27': 3765053419295257580
+      '!Demon Door_28': 2855495332898071244
+      '!Demon Door_29': -12343356822519829
+      '!Demon Door_3': -5450543793066533036
+      '!Demon Door_30': -4310734443870732497
+      '!Demon Door_31': 3903902388023086376
+      '!Demon Door_32': -3357699231046069662
+      '!Demon Door_33': -1279688271582121322
+      '!Demon Door_34': -1910451961813258506
+      '!Demon Door_35': -5511748149596824710
+      '!Demon Door_36': -780923512043526202
+      '!Demon Door_37': -2279281727511527275
+      '!Demon Door_38': 7861465699552203203
+      '!Demon Door_39': -5188101211753378627
+      '!Demon Door_4': 5171089170985717299
+      '!Demon Door_40': 4223590355075587013
+      '!Demon Door_41': 761062711621325666
+      '!Demon Door_42': -2377124646035819965
+      '!Demon Door_43': 2508439459512442658
+      '!Demon Door_44': -5172197249641718905
+      '!Demon Door_45': 8991189209245370990
+      '!Demon Door_46': 5538533076231313372
+      '!Demon Door_47': -7546866592557825588
+      '!Demon Door_48': -7539396822571191440
+      '!Demon Door_49': 4643955514644687960
+      '!Demon Door_5': -5890407595230158577
+      '!Demon Door_50': 8481244826583636500
+      '!Demon Door_51': 6415566262575723015
+      '!Demon Door_52': 2948115197540818688
+      '!Demon Door_53': 5924226066548284089
+      '!Demon Door_54': -3287877109336471351
+      '!Demon Door_55': 8092747245730457269
+      '!Demon Door_56': -5227097580486542893
+      '!Demon Door_57': 653637063943260686
+      '!Demon Door_58': -3636621614632191585
+      '!Demon Door_59': 2549164003106245105
+      '!Demon Door_6': 4452734027222299919
+      '!Demon Door_60': -1787499981557727432
+      '!Demon Door_61': -8099714217882947809
+      '!Demon Door_62': -7474542936526738241
+      '!Demon Door_63': -6876555552446352396
+      '!Demon Door_64': 6896138411076516131
+      '!Demon Door_65': 3290099151457455499
+      '!Demon Door_66': -795865687737472092
+      '!Demon Door_67': -8160370260403917583
+      '!Demon Door_68': -8645921422568074977
+      '!Demon Door_69': 4855457998321058919
+      '!Demon Door_7': 4808927465213920060
+      '!Demon Door_70': 2375004248320772931
+      '!Demon Door_71': 4121861136427629859
+      '!Demon Door_72': -698582321158632632
+      '!Demon Door_73': 5017876527796983880
+      '!Demon Door_74': 4319018563111313063
+      '!Demon Door_75': -2440712088594287679
+      '!Demon Door_76': 6353509543659654011
+      '!Demon Door_77': -7278690107938184127
+      '!Demon Door_78': -2008696569877243683
+      '!Demon Door_79': -6473092672222780655
+      '!Demon Door_8': 5423484715082821429
+      '!Demon Door_80': -961264923262256816
+      '!Demon Door_81': 2040716049497657627
+      '!Demon Door_82': 629874973526776595
+      '!Demon Door_83': -7220146193202308252
+      '!Demon Door_84': 7168638861897765457
+      '!Demon Door_85': 4159660493034433931
+      '!Demon Door_86': 7183132850836743841
+      '!Demon Door_87': -9127076311831803343
+      '!Demon Door_88': 3326602093647274646
+      '!Demon Door_89': -1521638736661068630
+      '!Demon Door_9': -4050513784649023378
+      '!Demon Door_90': -9116642944189901552
+      '!Demon Door_91': 1420332129223437190
+      '!Demon Door_92': 7067615272551123801
+      '!Demon Door_93': -7890663735680863287
+      '!Demon Door_94': 7123979529208527007
+      '!Demon Door_95': 6508334520360640858
+      '!Demon Door_96': 9030868475424857932
+      '!Demon Door_97': -1993877393079810966
+      '!Demon Door_98': -1457047100446991651
+      '!Demon Door_99': 2776106529063672308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -141,8 +141,13 @@ public class Room : MonoBehaviour
         foreach (MonoBehaviour script in scripts)
         {
             Type scriptType = script.GetType();
-            if (scriptType.Name == "GoblinEnemy" || scriptType.Name == "FlyingEyeEnemy" || scriptType.Name == "MeleeEnemy"
-            || scriptType.Name == "SkeletonEnemy" || scriptType.Name == "WizardEnemy" || scriptType.Name == "GrimReaperEnemy")
+            if (scriptType.Name == "GoblinEnemy"
+            || scriptType.Name == "FlyingEyeEnemy"
+            || scriptType.Name == "MeleeEnemy"
+            || scriptType.Name == "SkeletonEnemy"
+            || scriptType.Name == "WizardEnemy"
+            || scriptType.Name == "GrimReaperEnemy"
+            || scriptType.Name == "HeroKnightEnermy")
             {
                 script.enabled = status;
             }

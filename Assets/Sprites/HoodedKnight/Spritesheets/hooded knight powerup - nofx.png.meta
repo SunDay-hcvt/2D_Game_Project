@@ -163,6 +163,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -597,7 +636,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hooded knight powerup - nofx_0: 6600063413848689284
+      hooded knight powerup - nofx_1: -2864922932165741283
+      hooded knight powerup - nofx_10: 456341694247893734
+      hooded knight powerup - nofx_11: 1603703812002222101
+      hooded knight powerup - nofx_12: 5002562267165727913
+      hooded knight powerup - nofx_13: 4423472019377642950
+      hooded knight powerup - nofx_14: -5365933550040365127
+      hooded knight powerup - nofx_15: 8496347253872687245
+      hooded knight powerup - nofx_16: 3950209154945315571
+      hooded knight powerup - nofx_17: -9160905406586872530
+      hooded knight powerup - nofx_18: 1936529597513435431
+      hooded knight powerup - nofx_2: -2199371645656222845
+      hooded knight powerup - nofx_3: 6983517302071439030
+      hooded knight powerup - nofx_4: 1867960608305381550
+      hooded knight powerup - nofx_5: 8181541598045211565
+      hooded knight powerup - nofx_6: 8996077788203108232
+      hooded knight powerup - nofx_7: -8312086852697479055
+      hooded knight powerup - nofx_8: 3639039362579302266
+      hooded knight powerup - nofx_9: 8181432703129593050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

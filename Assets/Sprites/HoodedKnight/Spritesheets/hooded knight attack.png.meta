@@ -157,6 +157,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -547,7 +586,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hooded knight attack_0: -7101464911518183962
+      hooded knight attack_1: -2645980573288147640
+      hooded knight attack_10: -8731781563086596315
+      hooded knight attack_11: -2582961574876788477
+      hooded knight attack_12: 3813151471122155297
+      hooded knight attack_13: 7405144479094714833
+      hooded knight attack_14: 1701792767187062443
+      hooded knight attack_15: 5589722028180092312
+      hooded knight attack_16: 9013405858596022274
+      hooded knight attack_2: 2414979526066030143
+      hooded knight attack_3: 4382539694130547945
+      hooded knight attack_4: -2368580666695271181
+      hooded knight attack_5: 3542971289229315791
+      hooded knight attack_6: -3871542106377425995
+      hooded knight attack_7: -2230413746441495606
+      hooded knight attack_8: -3594365389419450627
+      hooded knight attack_9: 7930576872350427172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

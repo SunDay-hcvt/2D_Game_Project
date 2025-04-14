@@ -94,6 +94,16 @@ public class Health : MonoBehaviour
             {
                 animator.SetTrigger("fireworm_hurt");
             }
+            if (HasParameter(animator, "heroknight_takeHit", AnimatorControllerParameterType.Trigger))
+            {
+                animator.SetTrigger("heroknight_takeHit");
+                HeroKnightEnermy heroKnightEnermy = GetComponent<HeroKnightEnermy>();
+                if (heroKnightEnermy != null)
+                {
+                    heroKnightEnermy.TakeHit();
+                }
+            }
+
 
 
             StartCoroutine(Invunerability());
@@ -153,6 +163,10 @@ public class Health : MonoBehaviour
                 if (HasParameter(animator, "fireworm_died", AnimatorControllerParameterType.Trigger))
                 {
                     animator.SetTrigger("fireworm_died");
+                }
+                if (HasParameter(animator, "heroknight_died", AnimatorControllerParameterType.Trigger))
+                {
+                    animator.SetTrigger("heroknight_died");
                 }
 
 
@@ -228,6 +242,10 @@ public class Health : MonoBehaviour
         {
             animator.SetTrigger("fireworm_died");
         }
+        if (HasParameter(animator, "heroknight_died", AnimatorControllerParameterType.Trigger))
+        {
+            animator.SetTrigger("heroknight_died");
+        }
 
 
 
@@ -276,6 +294,10 @@ public class Health : MonoBehaviour
         {
             animator.Play("FireWorm_Idle");
         }
+        if (animator.HasState(0, Animator.StringToHash("HeroKnight_Idle")))
+        {
+            animator.Play("HeroKnight_Idle");
+        }
 
 
 
@@ -320,4 +342,8 @@ public class Health : MonoBehaviour
         return false;
     }
 
+    public bool IsDead()
+    {
+        return dead;
+    }
 }

@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "HowToDash.sln"
+    "dotnet.defaultSolution": "2D_Game_Project.sln"
 }
